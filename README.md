@@ -1,7 +1,3 @@
-This README file provides an overview of the "Project Birds of Ireland" data analysis, which aims to visualize bird population distribution and concentration across Ireland. This project is suitable for inclusion in your portfolio due to its comprehensive data handling and insightful visualizations.
-
----
-
 # Project Birds of Ireland Data Analysis
 
 ## Overview
@@ -58,8 +54,7 @@ The EDA phase involved visualizing key aspects of the dataset to understand its 
 
 ## How to Explore
 The interactive visualizations are available on the Tableau dashboard, providing a dynamic way to explore the bird observation data.
-*   **Tableau Dashboard**: [Birds of Ireland Dashboard](link_to_tableau_dashboard_here) (Please insert the actual link to your Tableau dashboard here, as per source)
-
+*   **Tableau Dashboard**: [Birds of Ireland Dashboard]([link_to_tableau_dashboard_here](https://public.tableau.com/views/Birds_of_Ireland/Dashboard1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 ---
 
 This project showcases robust data cleaning, transformation, and exploratory analysis skills, making it a valuable addition to your resume.
